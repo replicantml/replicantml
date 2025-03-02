@@ -1,11 +1,35 @@
-# 🌌 ReplicantML Monorepo 🌌
+# replicantml
+[https://github.com/replicantml](https://github.com/replicantml)
 
-A cohesive space for all machine learning projects, experiments, and implementations within ReplicantML.
+_Implementing and experimenting with machine learning algorithms through creative projects._
 
-## 🚀 Projects Included
+---
 
-Here are the key projects hosted in this monorepo:
+## ml-lab
+🔗 [Source Code](https://github.com/replicantml/ml-lab)  |  🌍 [Website](https://github.com/replicantml/ml-lab)
 
-- **[TBA](url)**: TBA.
+An all-in-one repository for machine learning: studying, projects and implementing ml from scratch.
 
-Feel free to explore the individual project directories for more information!
+---
+
+## ml-lib
+🔗 [Source Code](https://github.com/replicantml/ml-lib)  |  🌍 [Website](https://github.com/replicantml/ml-lib)
+
+Learning numerous multi-language machine learning libraries to aid with MLLab project.
+
+---
+
+## .github
+🔗 [Source Code](https://github.com/replicantml/.github)  |  🌍 [Website](None)
+
+ReplicantML
+
+---
+
+## replicantml
+🔗 [Source Code](https://github.com/replicantml/replicantml)  |  🌍 [Website](https://github.com/replicantml)
+
+A central hub for all repositories within `replicantml`
+
+---
+
